@@ -1,3 +1,6 @@
+## 4.0.1 (October 02, 2024)
+- Updated VERSION, Updated CHANGELOG.md, Bumped 2.0.3 –> 4.0.1
+
 ## 2.0.3 (October 02, 2024)
   - add titi
 
