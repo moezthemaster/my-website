@@ -1,3 +1,6 @@
+## 3.0.2 (October 02, 2024)
+- Updated VERSION, Updated CHANGELOG.md, Bumped 3.0.1 –> 3.0.2
+
 ## 3.0.1 (October 02, 2024)
 - Updated VERSION, Updated CHANGELOG.md, Bumped 3.0.0 –> 3.0.1
 
