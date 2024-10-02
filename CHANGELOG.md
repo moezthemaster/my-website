@@ -1,3 +1,8 @@
+## 2.0.0 (October 02, 2024)
+  - Add VERSION and CHANGELOG.md files, Bump version to v0.1.0.
+  - Updated VERSION, Updated CHANGELOG.md, Bumped 0.1.1 –> 1.0.0
+  - Updated VERSION, Updated CHANGELOG.md, Bumped 0.1.0 –> 0.1.1
+
 ## 0.1.0 (October 02, 2024)
   - Updated VERSION, Updated CHANGELOG.md, Bumped 0.1.1 –> 1.0.0
   - Updated VERSION, Updated CHANGELOG.md, Bumped 0.1.0 –> 0.1.1
